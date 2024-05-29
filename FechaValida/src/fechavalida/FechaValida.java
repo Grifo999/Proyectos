@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @author dam
  */
 public class FechaValida {
-//Hola
+//Hola que tal
     public static boolean validadorFecha(int day, int month, int year) {
         if (month < 1 || month > 12) {
             return false;
