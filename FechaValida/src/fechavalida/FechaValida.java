@@ -44,7 +44,7 @@ public class FechaValida {
         int dia;
         int mes;
         int anno;
-        System.out.println("Que fecha quieres validar");
+        System.out.println("Que fecha quieres validar"); 
         System.out.println("Que dia");
         dia = teclado.nextInt();
         System.out.println("Que mes");
